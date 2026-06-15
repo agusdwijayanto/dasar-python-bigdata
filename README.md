@@ -1,6 +1,6 @@
 # 📊 Dasar Python untuk Analisis Penjualan (Big Data)
 
-Repositori ini berisi proyek praktikum mengenai dasar-dasar pemrograman Python yang digunakan dalam pemrosesan data skala besar (*Big Data*). Proyek ini berfokus pada pengolahan data transaksi dari Google Spreadsheet menggunakan manipulasi tabel dan visualisasi dasar.
+Repositori ini berisi proyek praktikum mengenai dasar-dasar pemrograman Python yang digunakan dalam pemrosesan data skala besar (*Big Data*). Proyek ini berfokus pada pengolahan data transaksi menggunakan manipulasi tabel dan visualisasi dasar di lingkungan Jupyter Notebook.
 
 ---
 
@@ -13,7 +13,7 @@ Repositori ini berisi proyek praktikum mengenai dasar-dasar pemrograman Python y
 ---
 
 ## 📈 Fitur dan Analisis Kode
-1. **Manipulasi Data (Pandas):** Mengambil data eksternal, menampilkan 5 baris data teratas (`head()`), dan menghitung total keseluruhan kuantitas penjualan menggunakan fungsi `.sum()`[cite: 3].
+1. **Manipulasi Data (Pandas):** Mengambil data, menampilkan 5 baris data teratas (`head()`), dan menghitung total keseluruhan kuantitas penjualan menggunakan fungsi `.sum()`[cite: 3].
 2. **Kalkulasi Statistik (NumPy):** Menghitung nilai rata-rata penjualan (`mean()`), mencari angka penjualan tertinggi (`max()`), dan mendeteksi penjualan terendah (`min()`)[cite: 3].
 3. **Visualisasi Produk (Matplotlib):** Mengelompokkan data berdasarkan nama produk (`groupby()`) lalu menampilkan grafik batang (Bar Chart) total penjualan per produk agar mudah dianalisis secara visual[cite: 3].
 
